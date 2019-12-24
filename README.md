@@ -1,2 +1,2 @@
-# ds_tools
+# ds-tools
 data science tools

@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "data-visualisation"
+version = "0.1.0"
+description = ""
+authors = ["chernegi <chernega.ivan@gmail.com>"]
+readme = "README.md"
+packages = [{include = "data_visualisation"}]
+
+[tool.poetry.dependencies]
+python = ">=3.10,<3.12"
+pandas = "^2.0.2"
+scikit-learn = "^1.2.2"
+jupyterlab = "^3.6.3"
+jupyterlab-system-monitor = "^0.8.0"
+matplotlib = "^3.7.1"
+ffmpeg = "^1.4"
+seaborn = "^0.12.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

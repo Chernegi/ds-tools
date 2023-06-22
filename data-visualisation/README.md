@@ -2,7 +2,6 @@
 https://towardsdatascience.com/visualizing-networks-in-python-d70f4cbeb259
 https://www.geeksforgeeks.org/visualize-graphs-in-python/
 
-
 # Setup dependencies
 brew install ffmpeg
 pip install poetry

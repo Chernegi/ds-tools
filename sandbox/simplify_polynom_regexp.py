@@ -1,5 +1,4 @@
 import re
-import sys
 from functools import reduce
 from collections import OrderedDict
 

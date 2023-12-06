@@ -1,10 +1,10 @@
 [tool.poetry]
-name = "data-visualisation"
+name = "ds-tools"
 version = "0.1.0"
 description = ""
 authors = ["chernegi <chernega.ivan@gmail.com>"]
 readme = "README.md"
-packages = [{include = "data_visualisation"}]
+packages = [{include = "ds_tools"}]
 
 [tool.poetry.dependencies]
 python = ">=3.10,<3.12"
@@ -19,7 +19,7 @@ networkx = "^3.1"
 pyvis = "^0.3.2"
 dash = "^2.10.2"
 visdcc = "^0.0.50"
-
+ipykernel = "^6.25.2"
 
 [build-system]
 requires = ["poetry-core"]

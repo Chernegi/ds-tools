@@ -19,12 +19,24 @@ poetry run jupyter lab --NotebookApp.ResourceUseDisplay.track_cpu_percent=True -
 
 ## Useful links:
 
-### Visualisation of network and graphs
+**Visualisation of network and graphs**
+
 https://towardsdatascience.com/visualizing-networks-in-python-d70f4cbeb259
 https://www.geeksforgeeks.org/visualize-graphs-in-python/
 
-### TOP CV projects 2023
+**TOP CV projects 2023**
 https://www.geeksforgeeks.org/computer-vision-projects/
 
-### Credit card fraud detection example
+**Credit card fraud detection example**
 https://www.geeksforgeeks.org/ml-credit-card-fraud-detection/?ref=lbp
+
+
+### A little about matrix analysis
+
+**Kroneker product, Tracy–Singh product, Khatri–Rao prodcut**
+
+https://en.wikipedia.org/wiki/Kronecker_product
+
+
+**Block Matrix Multiplication**
+https://math.stackexchange.com/questions/787909/block-matrix-multiplication

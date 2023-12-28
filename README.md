@@ -24,6 +24,9 @@ poetry run jupyter lab --NotebookApp.ResourceUseDisplay.track_cpu_percent=True -
 https://towardsdatascience.com/visualizing-networks-in-python-d70f4cbeb259
 https://www.geeksforgeeks.org/visualize-graphs-in-python/
 
+**Clustering with Python**
+https://github.com/sandipanpaul21/Clustering-in-Python/tree/master
+
 **TOP CV projects 2023**
 https://www.geeksforgeeks.org/computer-vision-projects/
 

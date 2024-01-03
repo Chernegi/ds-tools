@@ -1,20 +1,21 @@
-## DS-TOOLS 
+# Data Science-TOOLS 
 
-DS-Tools means Data Science Tools.
-This is a workbook-purpose repository, not a production-ready project
-
-Hope the one who reads will find useful tips :) 
+This is a workbook-purpose repository \
+Hope the one who reads it finds useful tips 
 
 
 ### Setup dependencies
+~~~
 brew install ffmpeg
 pip install poetry
 
 poetry install
-
+~~~
 
 ### Run jupyter notebook:
+~~~
 poetry run jupyter lab --NotebookApp.ResourceUseDisplay.track_cpu_percent=True --NotebookApp.ResourceUseDisplay.mem_limit=6442450944 --ServerApp.iopub_data_rate_limit=1000000000 --ServerApp.rate_limit_window=120
+~~~
 
 
 ## Useful links:
@@ -23,9 +24,6 @@ poetry run jupyter lab --NotebookApp.ResourceUseDisplay.track_cpu_percent=True -
 
 https://towardsdatascience.com/visualizing-networks-in-python-d70f4cbeb259
 https://www.geeksforgeeks.org/visualize-graphs-in-python/
-
-**Clustering with Python**
-https://github.com/sandipanpaul21/Clustering-in-Python/tree/master
 
 **TOP CV projects 2023**
 https://www.geeksforgeeks.org/computer-vision-projects/

@@ -130,5 +130,6 @@ dmypy.json
 
 # Intellij staf
 .idea/
+.DS_Store
 
 data/

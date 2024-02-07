@@ -20,8 +20,10 @@ poetry run jupyter lab --NotebookApp.ResourceUseDisplay.track_cpu_percent=True -
 
 ## Useful links:
 
-**Visualisation of network and graphs**
+**Christian's ML articles**
+https://github.com/christianversloot/machine-learning-articles/blob/main/using-radial-basis-functions-for-svms-with-python-and-scikit-learn.md
 
+**Visualisation of network and graphs**
 https://towardsdatascience.com/visualizing-networks-in-python-d70f4cbeb259
 https://www.geeksforgeeks.org/visualize-graphs-in-python/
 

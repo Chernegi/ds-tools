@@ -27,6 +27,9 @@ https://github.com/christianversloot/machine-learning-articles/blob/main/using-r
 https://towardsdatascience.com/visualizing-networks-in-python-d70f4cbeb259
 https://www.geeksforgeeks.org/visualize-graphs-in-python/
 
+**Langchain Tools**
+https://github.com/kyrolabs/awesome-langchain?tab=readme-ov-file#knowledge-management
+
 **TOP CV projects 2023**
 https://www.geeksforgeeks.org/computer-vision-projects/
 
@@ -37,7 +40,6 @@ https://www.geeksforgeeks.org/ml-credit-card-fraud-detection/?ref=lbp
 ### A little about matrix analysis
 
 **Kroneker product, Tracy–Singh product, Khatri–Rao prodcut**
-
 https://en.wikipedia.org/wiki/Kronecker_product
 
 

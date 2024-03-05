@@ -45,3 +45,6 @@ https://en.wikipedia.org/wiki/Kronecker_product
 
 **Block Matrix Multiplication**
 https://math.stackexchange.com/questions/787909/block-matrix-multiplication
+
+**AI Projects collection 2024**
+https://github.com/nikit0ns/artificial-intelligence-library/blob/master/README.md

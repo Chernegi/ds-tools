@@ -7,8 +7,9 @@ Hope the one who reads it finds useful tips
 ### Setup dependencies
 ~~~
 brew install ffmpeg
-pip install poetry
+brew install graphviz
 
+pip install poetry
 poetry install
 ~~~
 

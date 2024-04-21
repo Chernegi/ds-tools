@@ -26,6 +26,8 @@ mlxtend = "^0.23.1"
 nltk = "^3.8.1"
 spacy = "^3.7.4"
 wordcloud = "^1.9.3"
+lightgbm = "^4.3.0"
+graphviz = "^0.20.3"
 
 [build-system]
 requires = ["poetry-core"]
